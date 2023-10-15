@@ -85,7 +85,7 @@ header nav ul li a:hover {
 /* -------  Search Form ------- */
 form {
   border: 2px solid #ff385c;
-  padding: 0px;
+  padding: 10px;
   text-align: left;
   max-width: 500px;
   box-sizing: border-box;
@@ -100,7 +100,7 @@ form {
 
 form label {
   font-weight: bold;
-  margin: 0px 30px 0px 0px;
+  margin: 0px 20px 0px 0px;
   display: inline-block;
   width: 80px;
 }
