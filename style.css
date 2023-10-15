@@ -103,6 +103,7 @@ form label {
   margin: 0px 20px 0px 0px;
   display: inline-block;
   width: 80px;
+  padding: 10px;
 }
 
 form select,
