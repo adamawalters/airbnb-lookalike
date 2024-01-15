@@ -95,11 +95,12 @@ form {
  text-align: left;
  display: flex;
  justify-content: space-around;
+ align-items: center;
 }
 
 form label {
   font-weight: bold;
-  margin: 0px 20px 0px 0px;
+  margin: 0px 0px 0px 0px;
   display: inline-block;
   width: 80px;
   padding: 10px;
@@ -107,7 +108,7 @@ form label {
 
 form select,
 form input {
-  margin-bottom: 20px;
+  margin-bottom: 0px;
   width: 280px; /*was 180px*/
 }
 
@@ -190,6 +191,7 @@ footer p {
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
    }
 
    .about-wrapper p {
